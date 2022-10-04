@@ -658,7 +658,7 @@ MonoBehaviour:
   gameField: {fileID: 636213049}
   unitsContainer: {fileID: 844699557}
   unitPrefab: {fileID: 1173924455562700433, guid: f6091cc995c9a264da4dc142867fc275, type: 3}
-  unitsCount: 6
+  unitsCount: 20
   unitStartParamsGetter: {fileID: 4746832}
 --- !u!4 &844699557
 Transform:
@@ -852,8 +852,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.5735341, y: 0.0021957587, z: -0.0015336309, w: 0.8191774}
-  m_LocalPosition: {x: -0.6044888, y: 80.77119, z: -38.389153}
+  m_LocalRotation: {x: 0.41939977, y: 0.23090273, z: -0.11121523, w: 0.8708725}
+  m_LocalPosition: {x: -28.764147, y: 60.222286, z: -53.80523}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
